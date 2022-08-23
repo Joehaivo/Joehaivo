@@ -1,4 +1,4 @@
-### Hi there 👋
+### 立志做一名全栈工程师的安卓叠码仔
 
 <!--
 **Joehaivo/Joehaivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-🔭 Android App Developer
