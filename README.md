@@ -1,6 +1,9 @@
-## 全干工程师🐬
+## 三流安卓开发工程师🐬 懂一点插件、懂一点后端、懂一点Flutter
 
-### **近期文章**
+### **业余写了点文章**
+- [技术文章: 循序渐进讲解改用Flutter写一个B站一键三连按钮动画 ](https://juejin.cn/post/7185067737558761532)
+
+- [技术文章: 循序渐进的讲解用Android Jetpack Compose 写一个B站“一键三连”按钮动画" ](https://juejin.cn/post/7183941776191782971)
 
 - [技术文章: Jetpack Compose - 如何自定义一个"Compose View" ](https://juejin.cn/post/7126879728522231845)
 
