@@ -1,5 +1,7 @@
 ## Android / Flutter 🐬
 
+- [技术文章: 如何通过Kotlin协程, 简化"连续依次弹窗(Dialog队列)"的需求](https://juejin.cn/post/7275943125821571106)
+
 - [开源项目: TTF Viewer 一个用于浏览TrueType字体(.ttf)文件(通常叫iconfont)内图标的Flutter应用程序](https://github.com/Joehaivo/ttf_viewer)
 
 - [技术文章: 循序渐进讲解改用Flutter写一个B站一键三连按钮动画 ](https://juejin.cn/post/7185067737558761532)
