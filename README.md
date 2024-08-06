@@ -1,8 +1,10 @@
 ## Android / Flutter 🐬
 
-- [开源项目: AOSP standalone Launcher 独立可运行版本](https://github.com/Joehaivo/Launcher6)
-
 - [技术文章: 如何通过Kotlin协程, 简化"连续依次弹窗(Dialog队列)"的需求](https://juejin.cn/post/7275943125821571106)
+
+- [技术文章: 简洁优雅的实现Android MVI代码结构](https://juejin.cn/post/7395376446585454626?share_token=2f100a80-ff81-4c18-bf6a-b81e6be6d953)
+
+- [开源项目: AOSP standalone Launcher 独立可运行版本](https://github.com/Joehaivo/Launcher6)
 
 - [开源项目: TTF Viewer 一个用于浏览TrueType字体(.ttf)文件(通常叫iconfont)内图标的Flutter应用程序](https://github.com/Joehaivo/ttf_viewer)
 
