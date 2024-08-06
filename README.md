@@ -1,4 +1,4 @@
-## Android / Flutter 🐬
+## Android / Flutter developer 🐬
 
 - [技术文章: 如何通过Kotlin协程, 简化"连续依次弹窗(Dialog队列)"的需求](https://juejin.cn/post/7275943125821571106)
 
