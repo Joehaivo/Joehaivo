@@ -4,6 +4,8 @@
 
 - [技术文章: 简洁优雅的实现Android MVI代码结构](https://juejin.cn/post/7395376446585454626?share_token=2f100a80-ff81-4c18-bf6a-b81e6be6d953)
 
+- [技术文章: 简化Activity跳转与结果回传(startActivityForResult & Activity Result API)](https://juejin.cn/post/7307183009606107151?share_token=afead553-932f-44f5-9ecb-1e4648e5dee6)
+
 - [开源项目: AOSP standalone Launcher 独立可运行版本](https://github.com/Joehaivo/Launcher6)
 
 - [开源项目: TTF Viewer 一个用于浏览TrueType字体(.ttf)文件(通常叫iconfont)内图标的Flutter应用程序](https://github.com/Joehaivo/ttf_viewer)
